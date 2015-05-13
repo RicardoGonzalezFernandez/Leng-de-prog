@@ -1,4 +1,10 @@
-#include <stdio.h>
+/*
+	Nombre: Ricardo Gonzalez Fernandez
+	RUN: 19.291.921-5
+	Tarea Número: 3
+*/
+
+#include <stdio.h>  // biblioteca standar I/O.
 
 int main (){
 	int i=5;
