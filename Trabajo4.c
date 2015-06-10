@@ -49,8 +49,8 @@ int main (){
 			
 
 		}
-		// Intente encontrar una relacion en la suma de caracteres y la cantidad de veces que se repite en la palabra.
-		// ejemplo: (kajak = 2 2 1 2 2) y descubri una cadena .. (1,5,9,13.....) (n4+1) que es por lo que se rige mi algoritmo en la parte de cantidad de caracteres impares
+		// Intenté encontrar una relacion en la suma de caracteres y la cantidad de veces que se repite en la palabra.
+		// ejemplo: (kajak = 2 2 1 2 2) y descubrí una cadena .. (1,5,9,13.....) (n4+1) 
 		ac= ac -1;
 		ac = ac%4;
 		if (ac == 0){
